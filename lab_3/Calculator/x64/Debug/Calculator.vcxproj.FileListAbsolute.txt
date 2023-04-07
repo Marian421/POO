@@ -1,0 +1,4 @@
+C:\Users\Brigita\Desktop\POO lab\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Brigita\Desktop\POO lab\Calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Brigita\Desktop\POO lab\Calculator\Calculator\x64\Debug\Calculator.Form1.resources
+C:\Users\Brigita\Desktop\POO lab\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
