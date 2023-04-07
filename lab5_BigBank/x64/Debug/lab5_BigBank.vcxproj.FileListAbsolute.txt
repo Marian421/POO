@@ -1,2 +1,0 @@
-C:\Users\Brigita\Desktop\POO lab\lab5_BigBank\lab5_BigBank\x64\Debug\lab5_BigBank.vcxproj.AssemblyReference.cache
-C:\Users\Brigita\Desktop\POO lab\lab5_BigBank\lab5_BigBank\x64\Debug\lab5_BigBank.vcxproj.SuggestedBindingRedirects.cache
