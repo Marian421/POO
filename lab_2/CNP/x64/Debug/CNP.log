@@ -1,0 +1,3 @@
+﻿  CNP.cpp
+C:\Users\Brigita\Desktop\POO lab\CNP\CNP\CNP.cpp(18,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CNP.vcxproj -> C:\Users\Brigita\Desktop\POO lab\CNP\x64\Debug\CNP.exe
