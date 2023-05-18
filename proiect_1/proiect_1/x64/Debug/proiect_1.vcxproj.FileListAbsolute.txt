@@ -1,0 +1,2 @@
+C:\Users\Brigita\Desktop\Proiect\proiect_1\proiect_1\x64\Debug\proiect_1.vcxproj.AssemblyReference.cache
+C:\Users\Brigita\Desktop\Proiect\proiect_1\proiect_1\x64\Debug\proiect_1.vcxproj.SuggestedBindingRedirects.cache

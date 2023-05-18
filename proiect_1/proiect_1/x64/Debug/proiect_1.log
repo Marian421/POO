@@ -1,0 +1,4 @@
+﻿  proiect_1.cpp
+C:\Users\Brigita\Desktop\Proiect\proiect_1\proiect_1\proiect_1.cpp(260): warning C4715: 'librarie::Pret': not all control paths return a value
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  proiect_1.vcxproj -> C:\Users\Brigita\Desktop\Proiect\proiect_1\x64\Debug\proiect_1.exe
